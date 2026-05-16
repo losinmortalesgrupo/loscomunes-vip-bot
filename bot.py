@@ -34,15 +34,9 @@ TEXTS = {
             "Este bot verifica el ingreso a un grupo hot exclusivo "
             "para personas fit con cuerpo atlético.\n\n"
 
-            "LA INFORMACIÓN ENVIADA SERÁ REVISADA MANUALMENTE "
-            "POR UNA PERSONA REAL.\n\n"
-
-            "NO ENVÍES INFORMACIÓN FALSA, CONTENIDO INCORRECTO "
-            "O CONTENIDO INVÁLIDO.\n\n"
-
-            "NO VAS A ENGAÑAR A NADIE.\n"
-            "LAS SOLICITUDES ENGAÑOSAS SERÁN RECHAZADAS "
-            "Y RECIBIRÁS BAN FEDERATIVO.\n\n"
+            "SERÁ REVISADO POR UNA PERSONA REAL.\n\n"
+"NO ENVIES INFORMACIÓN FALSA, NO ENGAÑARAS A NADIE.\n"
+"Las solicitudes falsas serán rechazadas y recibirás ban.\n\n"
 
             "PARA COMENZAR:\n"
             "DECÍ TU EDAD 👀"
@@ -102,16 +96,10 @@ TEXTS = {
             "This bot verifies access to an exclusive hot group "
             "for fit people with athletic bodies.\n\n"
 
-            "THE INFORMATION SUBMITTED WILL BE MANUALLY REVIEWED "
-            "BY A REAL PERSON.\n\n"
-
-            "DO NOT SEND FALSE INFORMATION, INCORRECT CONTENT "
-            "OR INVALID CONTENT.\n\n"
-
-            "YOU WILL NOT DECEIVE ANYONE.\n"
-            "DECEPTIVE APPLICATIONS WILL BE REJECTED "
-            "AND MAY RESULT IN A FEDERAL BAN.\n\n"
-
+            " THE INFORMATION REVIEWED BY A REAL PERSON.\n\n"
+            " DO NOT SEND FALSE INFORMATIO, YOU WIIL NOT DECEIVE ANYONED.\n"
+            "Fake applications will be rejected and banned.\n\n"
+            
             "TO BEGIN:\n"
             "TELL YOUR AGE 👀"
         ),
@@ -170,15 +158,9 @@ TEXTS = {
             "Este bot verifica a entrada em um grupo hot exclusivo "
             "para pessoas fitness com corpo atlético.\n\n"
 
-            "AS INFORMAÇÕES ENVIADAS SERÃO ANALISADAS MANUALMENTE "
-            "POR UMA PESSOA REAL.\n\n"
-
-            "NÃO ENVIE INFORMAÇÕES FALSAS, CONTEÚDO INCORRETO "
-            "OU CONTEÚDO INVÁLIDO.\n\n"
-
-            "VOCÊ NÃO ENGANARÁ NINGUÉM.\n"
-            "SOLICITAÇÕES ENGANOSAS SERÃO REJEITADAS "
-            "E PODEM RESULTAR EM BANIMENTO FEDERATIVO.\n\n"
+            "Será analisado por uma pessoa real.\n\n"
+"Não envie informações falsas.\n"
+"Solicitações falsas serão rejeitadas e banidas.\n\n"
 
             "PARA COMEÇAR:\n"
             "DIGA SUA IDADE 👀"
