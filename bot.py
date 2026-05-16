@@ -97,7 +97,7 @@ TEXTS = {
             "for fit people with athletic bodies.\n\n"
 
             " THE INFORMATION REVIEWED BY A REAL PERSON.\n\n"
-            " DO NOT SEND FALSE INFORMATIO, YOU WIIL NOT DECEIVE ANYONED.\n"
+            " DO NOT SEND FALSE INFORMATION, YOU WIIL NOT DECEIVE ANYONED.\n"
             "Fake applications will be rejected and banned.\n\n"
             
             "TO BEGIN:\n"
