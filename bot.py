@@ -34,14 +34,15 @@ TEXTS = {
             "Este bot verifica el ingreso a un grupo hot exclusivo "
             "para personas fit con cuerpo atlético.\n\n"
 
-            "LA INFORMACION ENVIADA SERA REVISADA MANUALMENTE "
+            "LA INFORMACIÓN ENVIADA SERÁ REVISADA MANUALMENTE "
             "POR UNA PERSONA REAL.\n\n"
 
-            "NO ENVIES INFORMACIÓN FALSA O CONTENIDO INCORRECTO "
-            "NI CONTENIDO INVALIDO.\n\n"
+            "NO ENVÍES INFORMACIÓN FALSA, CONTENIDO INCORRECTO "
+            "O CONTENIDO INVÁLIDO.\n\n"
 
             "NO VAS A ENGAÑAR A NADIE.\n"
-            "LAS SOLICITUDES ENGAÑOSAS SERAN RECHZADAS Y BAN FEDERATIVO DE TODOS LOS GRUPOS.\n\n"
+            "LAS SOLICITUDES ENGAÑOSAS SERÁN RECHAZADAS "
+            "Y RECIBIRÁS BAN FEDERATIVO.\n\n"
 
             "PARA COMENZAR:\n"
             "DECÍ TU EDAD 👀"
@@ -53,7 +54,7 @@ TEXTS = {
             "Ahora enviá un VIDEO DESNUDO permanente grabado "
             "en modo manos libres.\n\n"
 
-            "Debés posar mostrando músculos💪🦵:\n"
+            "Debés posar mostrando músculos 💪🦵:\n"
             "• de frente\n"
             "• y de espalda\n\n"
 
@@ -66,6 +67,22 @@ TEXTS = {
         "photo_not_allowed":
             "⚠️ No se aceptan fotos.\n\n"
             "Debés enviar un VIDEO.",
+
+        "warning": (
+            "⚠️ ÚLTIMO AVISO.\n\n"
+
+            "Tu solicitud continúa sin completar la verificación.\n\n"
+
+            "Esta NO es una verificación falsa o simulada.\n\n"
+
+            "Si no completás la verificación obligatoria "
+            "de este bot, el acceso al grupo será "
+            "DENEGADO PERMANENTEMENTE.\n\n"
+
+            "No existe otra forma de ingresar.\n\n"
+
+            "Tu solicitud será eliminada."
+        ),
 
         "sent":
             "✅ Solicitud enviada para revisión.",
@@ -82,20 +99,18 @@ TEXTS = {
         "welcome": (
             "🔒 Welcome to the verification system.\n\n"
 
-            "This bot verifies access to an exclusive group "
+            "This bot verifies access to an exclusive hot group "
             "for fit people with athletic bodies.\n\n"
 
-           "THE INFORMATION SUBMITTED WILL BE MANUALLY REVIEWED"
+            "THE INFORMATION SUBMITTED WILL BE MANUALLY REVIEWED "
+            "BY A REAL PERSON.\n\n"
 
-"BY A REAL PERSON.\n\n"
+            "DO NOT SEND FALSE INFORMATION, INCORRECT CONTENT "
+            "OR INVALID CONTENT.\n\n"
 
-"DO NOT SEND FALSE INFORMATION OR INCORRECT CONTENT"
-
-"OR INVALID CONTENT.\n\n"
-
-"YOU WILL NOT DECEIVE ANYONE.\n"
-
-"DECEPTIVE APPLICATIONS WILL BE REJECTED AND WILL RESULT IN A FEDERAL BAN FROM ALL GROUPS.\n\n"
+            "YOU WILL NOT DECEIVE ANYONE.\n"
+            "DECEPTIVE APPLICATIONS WILL BE REJECTED "
+            "AND MAY RESULT IN A FEDERAL BAN.\n\n"
 
             "TO BEGIN:\n"
             "TELL YOUR AGE 👀"
@@ -104,10 +119,10 @@ TEXTS = {
         "ask_video": (
             "Perfect.\n\n"
 
-            "Now send a permanent VIDEO recorded "
+            "Now send a permanent NAKED VIDEO recorded "
             "hands-free.\n\n"
 
-            "You must pose showing muscles💪🦵:\n"
+            "You must pose showing muscles 💪🦵:\n"
             "• front\n"
             "• back\n\n"
 
@@ -120,6 +135,22 @@ TEXTS = {
         "photo_not_allowed":
             "⚠️ Photos are not accepted.\n\n"
             "You must send a VIDEO.",
+
+        "warning": (
+            "⚠️ FINAL WARNING.\n\n"
+
+            "Your request is still incomplete.\n\n"
+
+            "This is NOT a fake or simulated verification.\n\n"
+
+            "If you do not complete the mandatory verification "
+            "required by this bot, access to the group "
+            "will be PERMANENTLY DENIED.\n\n"
+
+            "There is no other way to join.\n\n"
+
+            "Your request will be deleted."
+        ),
 
         "sent":
             "✅ Request sent for review.",
@@ -136,20 +167,18 @@ TEXTS = {
         "welcome": (
             "🔒 Bem-vindo ao sistema de verificação.\n\n"
 
-            "Este bot verifica a entrada em um grupo exclusivo "
+            "Este bot verifica a entrada em um grupo hot exclusivo "
             "para pessoas fitness com corpo atlético.\n\n"
 
-           "AS INFORMAÇÕES ENVIADAS SERÃO ANALISADAS MANUALMENTE"
+            "AS INFORMAÇÕES ENVIADAS SERÃO ANALISADAS MANUALMENTE "
+            "POR UMA PESSOA REAL.\n\n"
 
-"POR UMA PESSOA REAL.\n\n"
+            "NÃO ENVIE INFORMAÇÕES FALSAS, CONTEÚDO INCORRETO "
+            "OU CONTEÚDO INVÁLIDO.\n\n"
 
-"NÃO ENVIE INFORMAÇÕES FALSAS OU CONTEÚDO INCORRETO"
-
-"OU CONTEÚDO INVÁLIDO.\n\n"
-
-"VOCÊ NÃO ENGANARÁ NINGUÉM.\n"
-
-"CANDIDATURAS ENGANOSAS SERÃO REJEITADAS E RESULTARÃO EM BANIMENTO FEDERAL DE TODOS OS GRUPOS.\n\n"
+            "VOCÊ NÃO ENGANARÁ NINGUÉM.\n"
+            "SOLICITAÇÕES ENGANOSAS SERÃO REJEITADAS "
+            "E PODEM RESULTAR EM BANIMENTO FEDERATIVO.\n\n"
 
             "PARA COMEÇAR:\n"
             "DIGA SUA IDADE 👀"
@@ -158,10 +187,10 @@ TEXTS = {
         "ask_video": (
             "Perfeito.\n\n"
 
-            "Agora envie um VÍDEO permanente gravado "
+            "Agora envie um VÍDEO NU permanente gravado "
             "em modo mãos livres.\n\n"
 
-            "Você deve posar mostrando os músculos💪🦵:\n"
+            "Você deve posar mostrando os músculos 💪🦵:\n"
             "• frente\n"
             "• costas\n\n"
 
@@ -175,6 +204,22 @@ TEXTS = {
             "⚠️ Fotos não são aceitas.\n\n"
             "Você deve enviar um VÍDEO.",
 
+        "warning": (
+            "⚠️ AVISO FINAL.\n\n"
+
+            "Sua solicitação ainda está incompleta.\n\n"
+
+            "Esta NÃO é uma verificação falsa ou simulada.\n\n"
+
+            "Se você não concluir a verificação obrigatória "
+            "deste bot, o acesso ao grupo será "
+            "NEGADO PERMANENTEMENTE.\n\n"
+
+            "Não existe outra forma de entrar.\n\n"
+
+            "Sua solicitação será removida."
+        ),
+
         "sent":
             "✅ Solicitação enviada para revisão.",
 
@@ -185,7 +230,6 @@ TEXTS = {
             "❌ Sua solicitação foi rejeitada.",
     }
 }
-
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
@@ -203,7 +247,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Seleccioná tu idioma / Select your language / Selecione seu idioma",
         reply_markup=reply_markup
     )
-
 
 async def language_selected(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
@@ -227,6 +270,12 @@ async def language_selected(update: Update, context: ContextTypes.DEFAULT_TYPE):
         TEXTS[lang]["welcome"]
     )
 
+    # Aviso automático después de 10 minutos
+    context.job_queue.run_once(
+        send_warning,
+        600,
+        data=user.id
+    )
 
 async def join_request(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
@@ -268,6 +317,30 @@ async def join_request(update: Update, context: ContextTypes.DEFAULT_TYPE):
     except Exception as e:
         print(f"No se pudo enviar mensaje: {e}")
 
+async def send_warning(context: ContextTypes.DEFAULT_TYPE):
+
+    user_id = context.job.data
+
+    if user_id not in pending_users:
+        return
+
+    step = pending_users[user_id].get("step")
+
+    # Si ya terminó verificación no enviar aviso
+    if step == "done":
+        return
+
+    lang = pending_users[user_id].get("lang", "es")
+
+    try:
+
+        await context.bot.send_message(
+            chat_id=user_id,
+            text=TEXTS[lang]["warning"]
+        )
+
+    except:
+        pass
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
