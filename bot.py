@@ -32,14 +32,14 @@ TEXTS = {
             "🔒 Bienvenido al sistema de verificación.\n\n"
 
             "Este bot verifica el ingreso a un grupo hot exclusivo "
-            "para personas fit con cuerpo atlético (NO FLACOS O GORDOS, SÓLO MUSCULOSOS).\n\n"
+            "para personas fit con cuerpo atlético (𝗡𝗢 𝗙𝗟𝗔𝗖𝗢𝗦 𝗢 𝗚𝗢𝗥𝗗𝗢𝗦, 𝗦Ó𝗟𝗢 𝗠𝗨𝗦𝗖𝗨𝗟𝗢𝗦𝗢𝗦).\n\n"
 
             "SERÁ REVISADO POR UNA PERSONA REAL.\n\n"
 "NO ENVIES INFORMACIÓN FALSA, NO ENGAÑARAS A NADIE.\n"
 "Las solicitudes falsas serán rechazadas y recibirás ban.\n\n"
 
             "PARA COMENZAR:\n"
-            "DECÍ TU EDAD 👀"
+            "ENVIAME TU EDAD 👀"
         ),
 
         "ask_video": (
@@ -94,7 +94,7 @@ TEXTS = {
             "🔒 Welcome to the verification system.\n\n"
 
             "This bot verifies access to an exclusive hot group "
-            "for fit people with athletic bodies (NOT SKINNY OR FAT, ONLY MUSCULAR).\n\n"
+            "for fit people with athletic bodies (𝗡𝗢𝗧 𝗦𝗞𝗜𝗡𝗡𝗬 𝗢𝗥 𝗙𝗔𝗧, 𝗢𝗡𝗟𝗬 𝗠𝗨𝗦𝗖𝗨𝗟𝗔𝗥).\n\n"
 
             " THE INFORMATION REVIEWED BY A REAL PERSON.\n\n"
             " DO NOT SEND FALSE INFORMATION, YOU WIIL NOT DECEIVE ANYONED.\n"
@@ -156,7 +156,7 @@ TEXTS = {
             "🔒 Bem-vindo ao sistema de verificação.\n\n"
 
             "Este bot verifica a entrada em um grupo hot exclusivo "
-            "para pessoas fitness com corpo atlético (NEM MAGRO NEM GORDO, SÓ MUSCULOSO).\n\n"
+            "para pessoas fitness com corpo atlético (𝗡𝗘𝗠 𝗠𝗔𝗚𝗥𝗢 𝗡𝗘𝗠 𝗚𝗢𝗥𝗗𝗢, 𝗦Ó 𝗠𝗨𝗦𝗖𝗨𝗟𝗢𝗦𝗢).\n\n"
 
             "Será analisado por uma pessoa real.\n\n"
 "Não envie informações falsas.\n"
